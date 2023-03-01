@@ -7,6 +7,7 @@ export const fetchGreeting = createAsyncThunk('greeting/fetchGreeting', () =>
     .then((response) => response.json())
     .then((json) => json),
 );
+
 /* eslint-enable */
 const greetingSlice = createSlice({
   name: 'greeting',
