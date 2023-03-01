@@ -2,29 +2,28 @@
 
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Hello React Front End\] ](#-hello-react-front-end-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 [Hello React Front End] <a name="about-project"></a>
 
-**[Hello React Front End]** is a front-end app for [Hello Rails Back End](https://github.com/karayamanemre/hello-rails-back-end).
+**[Hello React Front End]** is a front-end app for [Hello Rails Back End](https://github.com/samuelmoiwa/hello-rails-backend).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- Getting random greeting messages from: [Hello Rails Back End](https://github.com/karayamanemre/hello-rails-back-end).
+- Getting random greeting messages from: [Hello Rails Back End](https://github.com/samuelmoiwa/hello-rails-backend).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,10 +94,11 @@ No tests included.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Emre Karayaman**
+👤 **Abdulai Samuel Moiwa**
 
-- GitHub: [Emre Karayaman](https://github.com/karayamanemre)
-- LinkedIn: [Emre Karayaman](https://www.linkedin.com/in/emre-karayaman-a7b45b243/)
+- GitHub: [@githubhandle](https://github.com/samuelmoiwa)
+- Twitter: [@twitterhandle](https://twitter.com/samuelmoiwa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ing-abdulai-samuel-moiwa-726340142/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
