@@ -7,7 +7,6 @@ const Greeting = () => {
   const dispatch = useDispatch();
 
   useEffect(() => {
-  
     dispatch(fetchGreeting());
   }, [dispatch]);
 
